@@ -1,2 +1,2 @@
 # hello-world
-my world
+hi! my world! I like computer technology.
